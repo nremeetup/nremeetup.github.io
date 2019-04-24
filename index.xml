@@ -6,10 +6,22 @@
     <description>Recent content on NRE Meetup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 11:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 12:44:24 +0100</lastBuildDate>
     
         <atom:link href="https://nremeetup.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April 2019</title>
+      <link>https://nremeetup.net/2019/aprilmeetup/</link>
+      <pubDate>Wed, 24 Apr 2019 12:44:24 +0100</pubDate>
+      
+      <guid>https://nremeetup.net/2019/aprilmeetup/</guid>
+      <description>Confessions and network reliability engineering, an interesting mix! Alas, Confessions was the name of the venue that hosted the second NRE Meetup. Thanks to everyone that came along and took part in the great discussions.
+We spoke at length about Terraform, standardisation of terminology and NRE Labs.
+Takeaways from this session were:
+ Do not book these events the day before a national holiday NRE is a hot topic, with organisations and individuals looking to move forwards with reliabilty at the core Terraform is an interesting proposition for networking  Super short write-up but thanks again to everyone that came along!</description>
+    </item>
     
     <item>
       <title>Welcome</title>
